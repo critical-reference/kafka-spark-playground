@@ -1,0 +1,52 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Logs
+logs/
+*.log
+
+# Target directory
+target/
+project/target/
+project/project/
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+
+# Scala-related files
+*.class
+*.lo
+*.o
+*.so
+*.dll
+*.dylib
+
+# SBT files
+.cache/
+lib_managed/
+src_managed/
+.dist/
+
+# Binaries
+*.exe
+*.out
+
+# Coverage and test results
+coverage/
+*.coverdata
+*.coverage
+*.scoverage
+
+# Generated files
+dist/
+*.pid
+*.seed
+*.bak
+
+# Misc
+*.swp
+*.tmp
